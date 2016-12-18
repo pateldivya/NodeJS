@@ -1,0 +1,19 @@
+{
+  "name": "packagejson",
+  "version": "1.3.9",
+  "description": "This is package for json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "Divya",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "module": "^1.2.5",
+    "nodemon": "^1.11.0"
+  }
+}
